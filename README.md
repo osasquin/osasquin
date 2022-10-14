@@ -1,6 +1,6 @@
 
 
-🎓 Just started my major in Control and Automation Engineer! - Universidade Federal de Itajúba (UNIFEI) 
+🎓 Just started my major in Control and Automation Engineering! - Universidade Federal de Itajúba (UNIFEI) 
 
 :sparkling_heart: I will always try my best to use technology in favor of the people!
 
