@@ -5,8 +5,8 @@
 :sparkling_heart: I will always try my best to use technology in favor of the people!
 
 Studying and improving in these areas:
-:computer: Programming languages like Python, C/C++, Javascript and more!
-:factory: Industrial Automation, 4.0 Industry technologies.
+- :computer: Programming languages like Python, C/C++, Javascript and more!
+- :factory: Industrial Automation, 4.0 Industry technologies.
 
 :mechanical_arm: Working as a programmer for developing assistive technology in the academic
 extension project: "Ex Machina-UNIFEI"
