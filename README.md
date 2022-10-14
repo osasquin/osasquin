@@ -10,6 +10,5 @@ Studying and improving in these areas:
 
 :mechanical_arm: Working as a programmer for developing assistive technology in the academic
 extension project: "Ex Machina-UNIFEI"
-- Know more about assistive technology: https://www.atia.org/home/at-resources/what-is-at/
 
 :latin_cross: "Take my yoke upon you and learn from me, for I am gentle and humble in heart" - Mathew 11:29.
