@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**osasquin/osasquin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Just started my major in Control and Automation Engineer! - Universidade Federal de Itajúba (UNIFEI) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:sparkling_heart: I will always try my best to use technology in favor of the people!
+
+Studying and improving in these areas:
+:computer: Programming languages like Python, C/C++, Javascript and more!
+:factory: Industrial Automation, 4.0 Industry technologies.
+
+:mechanical_arm: Working as a programmer for developing assistive technology in the academic
+extension project: "Ex Machina-UNIFEI"
+Know more about assistive technology: https://www.atia.org/home/at-resources/what-is-at/
+
+:latin_cross: "Take my yoke upon you and learn from me, for I am gentle and humble in heart" - Mathew 11:29.
